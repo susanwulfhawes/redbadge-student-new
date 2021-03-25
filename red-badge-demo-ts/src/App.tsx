@@ -8,7 +8,7 @@ function App() {
       <FunctionalClickCounter initialValue={6} />
       <FunctionalClickCounter initialValue={10} />
       <FunctionalClickCounter initialValue={4} />
-      <ClassClickCounter />
+      <ClassClickCounter  initialValue={4} />
     </div>
   );
 }
